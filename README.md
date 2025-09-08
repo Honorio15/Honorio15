@@ -35,9 +35,9 @@ Aplicativo web para controle de finanças pessoais com visualizações de gastos
 ## Contato
 
 - 📧 Email: honoriohneto@gmail.com
-- 💼 LinkedIn: [honorioneto](https://www.linkedin.com/in/honorioneto/)
+- 💼 LinkedIn: [honorioneto](https://www.linkedin.com/in/hilton-hon%C3%B3rio-neto-51b302249/)
 - 🔗 GitHub: [Honorio15](https://github.com/Honorio15)
 
 ---
 
-© 2023 Honório Neto. Todos os direitos reservados.
+© 2023 Hilton Honório Neto. Todos os direitos reservados.
